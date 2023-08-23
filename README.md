@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haascordeiro
 - 👀 I’m interested in literature and languages
-- 🌱 I’m currently learning HTML and Unity
-- 💞️ I’m looking to collaborate on creative writing projects, also in Game Design
+- 🌱 I’m currently learning HTML, CSS and game development in Unity
+- 💞️ I’m looking to collaborate on creative writing projects in Game Design
 - 📫 How to reach me: luc.cordeiro@gmail.com
 
 <!---
